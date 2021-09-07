@@ -1,0 +1,26 @@
+p{
+  text-align: center;
+  font-size:50px;
+  color:#00008b;
+  font-weight:bold;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div {
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 15px;
+  padding-left: 80px;
+}
+.inline-block-child {
+  display: inline-block;
+}
+.parent{
+  padding-left: 300px;
+}
+.parent2{
+  padding-left: 750px;
+}
