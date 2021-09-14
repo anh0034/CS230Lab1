@@ -1,0 +1,47 @@
+.mix {
+    min-height:370px;
+}
+.navbar-custom{
+  padding-left:1300px;
+  padding-right:380px;
+  font-size:11px;
+}
+.navbar-light{
+  padding-left:400px;
+  padding-right:400px; 
+  font-size:25px; 
+}
+a:link { 
+  text-decoration: none; 
+  color:#00008b;
+}
+a:visited {
+  color: #00008b;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+nav.navbar-custom ul.dropdown-menu > li > a { 
+    color: black; 
+}
+nav.navbar-custom ul.dropdown-menu > li > a:hover { 
+    background: #5CB85C; color: #fff; 
+}
+nav.navbar-custom span.badge { 
+    background: #5CB85C; 
+    font-weight: normal; 
+    font-size: 11px;
+     margin: 0 4px; 
+}
+nav.navbar-custom span.badge.new { 
+    background: rgba(255, 0, 0, 0.8); color: #fff; 
+}
