@@ -12,11 +12,11 @@ div{
   padding-top:0px;
 }
 .box {
-  inline-size: 510px;
+  inline-size: 600px;
   overflow-wrap: break-word;
   font-weight: bold;
   display: inline-block;
-  padding-bottom:0px;
+  padding-left:100px;
 }
 .box2 {
   inline-size: 510px;
@@ -24,9 +24,9 @@ div{
   font-weight: bold;
   display: inline-block;
   padding-bottom:0px;
-  padding-left:30px;
+  padding-left:100px;
+  padding-right:10px;
 }
-
 p{
   font-weight: normal;
   font-size:20px;
@@ -46,13 +46,21 @@ p{
 .btn-mwb{
   color:#FFFFFF;
   background-color:#0d3ecc;
-  border-radius: 15px;
+  border-radius: 30px;
+  padding:10px;
+  font-size:20px;
+  margin:15px;
+  font-weight:bold;
 }
 .btn-fd{
-  color:#FFFFFF;
-  background-color:#0d3ecc;
-  border-radius: 15px;
-  padding-top:10px;
+  color:#0d3ecc;
+  background-color:#FFFFFF;
+  border-radius: 30px;
+  padding:10px;
+  font-size:20px;
+  margin-left:120px;
+  margin-right:450px;
+  font-weight:bold;
 }
 .personal{
   padding-left:50px;
